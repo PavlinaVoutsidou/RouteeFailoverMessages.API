@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteeFailoverMessages.API", "RouteeFailoverMessages.API\RouteeFailoverMessages.API.csproj", "{B150DA34-C85C-494B-A4F3-DE7DB40AED01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteeFailoverMessages.Library", "RouteeFailoverMessages.Library\RouteeFailoverMessages.Library.csproj", "{AAF7C12B-EB71-4813-AA37-796895BFB8CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteeFailoverMessages.Data", "RouteeFailoverMessages.Data\RouteeFailoverMessages.Data.csproj", "{E7715536-12DE-4E21-A995-47D76C53F663}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteeFailoverMessages.Domain", "RouteeFailoverMessages.Domain\RouteeFailoverMessages.Domain.csproj", "{EFA5EF5E-81A8-4781-ACF0-03CB294101C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B150DA34-C85C-494B-A4F3-DE7DB40AED01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B150DA34-C85C-494B-A4F3-DE7DB40AED01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B150DA34-C85C-494B-A4F3-DE7DB40AED01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B150DA34-C85C-494B-A4F3-DE7DB40AED01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAF7C12B-EB71-4813-AA37-796895BFB8CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF7C12B-EB71-4813-AA37-796895BFB8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF7C12B-EB71-4813-AA37-796895BFB8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF7C12B-EB71-4813-AA37-796895BFB8CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7715536-12DE-4E21-A995-47D76C53F663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7715536-12DE-4E21-A995-47D76C53F663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7715536-12DE-4E21-A995-47D76C53F663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7715536-12DE-4E21-A995-47D76C53F663}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFA5EF5E-81A8-4781-ACF0-03CB294101C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA5EF5E-81A8-4781-ACF0-03CB294101C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA5EF5E-81A8-4781-ACF0-03CB294101C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA5EF5E-81A8-4781-ACF0-03CB294101C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41A908CA-5F86-4F49-8949-0EA8DF116FA2}
+	EndGlobalSection
+EndGlobal
