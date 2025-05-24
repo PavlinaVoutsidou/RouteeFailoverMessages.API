@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteeFailoverMessages.Data
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteeFailoverMessages.Domain", "RouteeFailoverMessages.Domain\RouteeFailoverMessages.Domain.csproj", "{EFA5EF5E-81A8-4781-ACF0-03CB294101C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteeFailoverMessages.Tests", "RouteeFailoverMessages.Tests\RouteeFailoverMessages.Tests.csproj", "{86B0AB19-BAD6-4A04-AC04-36CA915935DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{EFA5EF5E-81A8-4781-ACF0-03CB294101C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFA5EF5E-81A8-4781-ACF0-03CB294101C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFA5EF5E-81A8-4781-ACF0-03CB294101C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86B0AB19-BAD6-4A04-AC04-36CA915935DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86B0AB19-BAD6-4A04-AC04-36CA915935DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86B0AB19-BAD6-4A04-AC04-36CA915935DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86B0AB19-BAD6-4A04-AC04-36CA915935DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

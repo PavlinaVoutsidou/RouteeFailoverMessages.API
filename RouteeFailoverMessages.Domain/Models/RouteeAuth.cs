@@ -2,7 +2,7 @@
 {
     public class RouteeAuth
     {
-        public string AppID { get; set; }
-        public string AppSecret { get; set; }
+        public string? AppID { get; set; }
+        public string? AppSecret { get; set; }
     }
 }
